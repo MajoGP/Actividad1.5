@@ -1,0 +1,31 @@
+h1{
+    background-color:red;
+    margin-left: 18;
+    margin-bottom: 18;
+    /*todos los lados*/
+    /*margin: 50px*/
+    /*arriba y abajo margin:20px 100px;*/
+    /*manecillas del relog arriba y abajo, derecha, abajo,izquierda*/
+    margin:100px,80px,50px,200px;
+   
+}
+body {
+    background-color: rgb(240, 240, 20);
+
+}
+.form-register {
+    width: 550px;
+    background: rgba(10, 195, 228, 0.692);
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(185, 77, 14);
+    box-shadow: 10px 23px 37px pink;
+
+}
+    
+
+ 
+
